@@ -6,7 +6,9 @@ bottleneck=1.4.2=py313h2cb717b_0
 bzip2=1.0.8=h2bbff1b_6
 ca-certificates=2025.2.25=haa95532_0
 colorama=0.4.6=py313haa95532_0
+cramjam=2.9.1=py313hbdb9fe4_0
 expat=2.7.1=h8ddb27b_0
+fastparquet=2024.11.0=py313h2cb717b_1
 filelock=3.13.1=pypi_0
 fsspec=2024.6.1=pypi_0
 intel-openmp=2023.1.0=h59b6b97_46320
@@ -24,6 +26,7 @@ numexpr=2.10.1=py313h4cd664f_0
 numpy=2.2.4=py313he6dc315_0
 numpy-base=2.2.4=py313h6011491_0
 openssl=3.0.16=h3f729d1_0
+packaging=24.2=py313haa95532_0
 pandas=2.2.3=py313h5da7b33_0
 pillow=11.0.0=pypi_0
 pip=25.1=pyhc872135_2
